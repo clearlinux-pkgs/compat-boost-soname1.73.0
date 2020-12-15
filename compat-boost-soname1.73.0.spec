@@ -1,6 +1,6 @@
 Name:           compat-boost-soname1.73.0
 Version:        1.73.0
-Release:        4
+Release:        5
 License:        BSL-1.0
 Summary:        Useful C++ source libraries
 Url:            https://www.boost.org/
@@ -68,7 +68,7 @@ rm -f %{buildroot}/usr/lib64/*.a
 /usr/lib64/libboost_nowide.so.*
 /usr/lib64/libboost_prg_exec_monitor.so.*
 /usr/lib64/libboost_program_options.so.*
-/usr/lib64/libboost_python38.so.*
+/usr/lib64/libboost_python39.so.*
 /usr/lib64/libboost_random.so.*
 /usr/lib64/libboost_regex.so.*
 /usr/lib64/libboost_serialization.so.*
