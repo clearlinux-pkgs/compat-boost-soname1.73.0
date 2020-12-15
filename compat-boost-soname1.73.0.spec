@@ -1,6 +1,6 @@
 Name:           compat-boost-soname1.73.0
 Version:        1.73.0
-Release:        3
+Release:        4
 License:        BSL-1.0
 Summary:        Useful C++ source libraries
 Url:            https://www.boost.org/
